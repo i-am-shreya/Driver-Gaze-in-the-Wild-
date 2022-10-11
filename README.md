@@ -29,6 +29,15 @@ Overview of the automatic data annotation technique is shown in the following fi
 ## Demo
 Please find the following demo.
 
+
+[![Watch the Demo](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=S0CJ1X9GnR8)
+
+## Notes
+1. We train an Inception V1 network on the detected faces (we use Dlib's face detction library) to predict the gaze zones.
+2. Evaluation protocol is CLASSWISE ACCURACY. Baselines for validation set is 60.10% and for test set is 60.98%.
+3. Please refer to the paper "Speak2Label: Using Domain Knowledge for Creating a Large Scale Driver Gaze Zone Estimation Dataset" for more details. 
+4. Please use the person specific faces as uploaded in face folder in any academic publication. 
+
 ## Contact:
 For accessing the database for research or commercial purpose, please email Abhinav Dhall at abhinav[at]iitrpr.ac.in, abhinav[DOT]dhall[at]monash[DOT]edu.
 
