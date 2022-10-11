@@ -31,3 +31,6 @@ Please find the following demo.
 
 ## Contact:
 For accessing the database for research or commercial purpose, please email Abhinav Dhall at abhinav[at]iitrpr.ac.in, abhinav[DOT]dhall[at]monash[DOT]edu.
+
+## Acknowledgements
+This repository build on top of Attention augmented convolution [link](https://github.com/titu1994/keras-attention-augmented-convs).
