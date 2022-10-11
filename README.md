@@ -29,9 +29,7 @@ Overview of the automatic data annotation technique is shown in the following fi
 ## Demo
 Please find the following demo.
 
-
-[![Watch the Demo](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=S0CJ1X9GnR8)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0CJ1X9GnR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Notes
 1. We train an Inception V1 network on the detected faces (we use Dlib's face detction library) to predict the gaze zones.
 2. Evaluation protocol is CLASSWISE ACCURACY. Baselines for validation set is 60.10% and for test set is 60.98%.
