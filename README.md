@@ -20,11 +20,14 @@ If you find the work useful for your research, please consider citing our work:
 ```
 ## DGW Dataset Overview:
 Following frames are from the Driver Gaze in the Wild (DGW) dataset. The Driver Gaze in the Wild (DGW) dataset contains 586 recordings of 338 subjects in different illumination conditions.
+![data](/figs/2-Figure1-1.png) 
 
 ## Audio Based Automatic Labelling Framework:
 The data has been collected in a car with different subjects at the driver’s position. We pasted number stickers on different gaze zones of the car. The nine car zones are chosen from back mirror, side mirrors, radio, speedometer and windshield. The recording sensor is a Microsoft Lifecam RGB camera, which contains a microphone as well. For recording, we asked the subjects to look at the zones marked with numbers in different orders. For each zone, the subject has to fixate on a particular zone number and speak the zone’s number and then move to the next zone. For recording realistic behaviour, no constraint is mentioned to the subjects about looking by eye movements and/or head movements. The subjects chose the way in which they are comfortable. This leads to more naturalistic data. 
 
 Overview of the automatic data annotation technique is shown in the following figure. On the top are the representative frames from each zone. Please note the numbers written in alphabets below the curve. On the bottom right are reference car zones. 
+
+![label](/figs/download(1).jpeg) 
 
 ## Demo
 Please find the following demo.
